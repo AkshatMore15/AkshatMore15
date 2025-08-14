@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/6/folders/1ZRYsyoWzPh7A6_iU55V7s7NqqSZVbRK9](https://drive.google.com/drive/u/6/folders/1ZRYsyoWzPh7A6_iU55V7s7NqqSZVbRK9)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AkshatMore15&theme=dark&hide_border=true)
+![GitHub Snake Light](https://github.com/AkshatMore15/AkshatMore15/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
