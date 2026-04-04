@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **FastAPI, LLM Fine Tuning, Agentic AI**
 
-- 👨‍💻 All of my projects are available at [akshatmore.me](akshatmore.me)
-
-- 📝 I regularly write articles on [https://medium.com/@akshatmore1503](https://medium.com/@akshatmore1503)
+- 👨‍💻 All of my projects are available at [akshatmore.me](https://www.akshatmore.me/)
 
 - 💬 Ask me about **machine learning, deep learning and gen ai**
 
